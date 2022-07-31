@@ -1,0 +1,189 @@
+[15:50:18] [ServerMain/INFO]: Building unoptimized datafixer
+[15:50:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:50:22] [ServerMain/INFO]: Loaded 7 recipes
+[15:50:22] [ServerMain/INFO]: Loaded 1180 advancements
+[15:50:22] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: world:motion_penetrate
+[15:50:24] [Server thread/INFO]: Starting minecraft server version 1.19
+[15:50:24] [Server thread/INFO]: Loading properties
+[15:50:24] [Server thread/INFO]: Default game type: SURVIVAL
+[15:50:24] [Server thread/INFO]: Generating keypair
+[15:50:24] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 控制代碼無效。
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at aep$1.run(SourceFile:92) [server-1.19.jar:?]
+[15:50:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:50:24] [Server thread/INFO]: Using default channel type
+[15:50:24] [Server thread/INFO]: Preparing level "world"
+[15:50:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:50:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[15:50:31] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[15:50:31] [Worker-Main-1/INFO]: Preparing spawn area: 64%
+[15:50:32] [Server thread/INFO]: Time elapsed: 6721 ms
+[15:50:32] [Server thread/INFO]: Done (7.328s)! For help, type "help"
+[15:51:08] [User Authenticator #1/INFO]: UUID of player HolyGuizhi is 8ce686bc-e0d5-41b9-82c0-96be3d455418
+[15:51:08] [Server thread/INFO]: HolyGuizhi[/127.0.0.1:53082] logged in with entity id 64 at (-573.6528161060764, 63.0, -948.2325760152694)
+[15:51:08] [Server thread/INFO]: HolyGuizhi joined the game
+[15:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[15:51:53] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:00] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:01] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:01] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:02] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:02] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:56] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:57] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:57] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:52:58] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[15:53:01] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[16:06:29] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[16:06:43] [Server thread/INFO]: [HolyGuizhi: Applied effect Hero of the Village to HolyGuizhi]
+[16:13:52] [Server thread/INFO]: [HolyGuizhi: Removed 1 items from player HolyGuizhi]
+[16:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[16:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3434ms or 68 ticks behind
+[16:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[16:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4489ms or 89 ticks behind
+[16:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[16:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[16:20:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:20:58] [Server thread/INFO]: [HolyGuizhi: Reset [sonic_boom] for 4 entities]
+[16:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16:21:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:25:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6083ms or 121 ticks behind
+[16:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[16:28:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3524ms or 70 ticks behind
+[16:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[16:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:29:23] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:23] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:23] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:24] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:24] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:24] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:25] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:25] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:25] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:25] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:25] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:25] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:26] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:27] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:27] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:27] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:30:25] [Server thread/INFO]: HolyGuizhi was slain by Iron Golem
+[16:30:26] [Server thread/WARN]: HolyGuizhi moved too quickly! -28.18315893251031,3.6489257920451905,17.552783313839313
+[16:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[16:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6557ms or 131 ticks behind
+[16:31:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4893ms or 97 ticks behind
+[16:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
+[16:31:40] [Server thread/INFO]: Villager bss['Villager'/8136, l='ServerLevel[world]', x=-588.81, y=63.00, z=-967.33] died, message: 'Villager burned to death'
+[16:31:44] [Server thread/INFO]: Villager bss['Villager'/8075, l='ServerLevel[world]', x=-585.29, y=63.00, z=-967.44] died, message: 'Villager burned to death'
+[16:31:47] [Server thread/INFO]: Villager bss['Villager'/8112, l='ServerLevel[world]', x=-586.69, y=63.00, z=-963.01] died, message: 'Villager burned to death'
+[16:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[16:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
+[16:32:07] [Server thread/INFO]: Villager bss['Villager'/8096, l='ServerLevel[world]', x=-589.34, y=63.00, z=-965.85] died, message: 'Villager burned to death'
+[16:32:08] [Server thread/INFO]: Villager bss['Villager'/8093, l='ServerLevel[world]', x=-587.56, y=63.00, z=-966.98] died, message: 'Villager burned to death'
+[16:32:14] [Server thread/INFO]: Villager bss['Villager'/8120, l='ServerLevel[world]', x=-588.03, y=63.00, z=-961.80] died, message: 'Villager burned to death'
+[16:32:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[16:32:24] [Server thread/INFO]: Villager bss['Villager'/8104, l='ServerLevel[world]', x=-582.50, y=63.00, z=-967.17] died, message: 'Villager tried to swim in lava'
+[16:32:25] [Server thread/INFO]: Villager bss['Villager'/8087, l='ServerLevel[world]', x=-583.16, y=63.26, z=-966.11] died, message: 'Villager tried to swim in lava'
+[16:32:25] [Server thread/INFO]: Villager bss['Villager'/8097, l='ServerLevel[world]', x=-582.48, y=63.32, z=-966.10] died, message: 'Villager tried to swim in lava'
+[16:32:28] [Server thread/INFO]: Villager bss['Villager'/8125, l='ServerLevel[world]', x=-585.27, y=63.00, z=-966.91] died, message: 'Villager burned to death'
+[16:32:40] [Server thread/INFO]: Villager bss['Villager'/8103, l='ServerLevel[world]', x=-588.00, y=63.00, z=-963.19] died, message: 'Villager burned to death'
+[16:32:40] [Server thread/INFO]: Villager bss['Villager'/8113, l='ServerLevel[world]', x=-587.19, y=64.18, z=-961.55] died, message: 'Villager burned to death'
+[16:32:40] [Server thread/INFO]: Villager bss['Villager'/8130, l='ServerLevel[world]', x=-582.76, y=63.00, z=-961.35] died, message: 'Villager burned to death'
+[16:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[16:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4240ms or 84 ticks behind
+[16:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:33:23] [Server thread/INFO]: Villager bss['Villager'/8076, l='ServerLevel[world]', x=-583.09, y=63.12, z=-962.91] died, message: 'Villager tried to swim in lava'
+[16:33:27] [Server thread/INFO]: Villager bss['Villager'/8127, l='ServerLevel[world]', x=-585.70, y=63.00, z=-962.38] died, message: 'Villager burned to death'
+[16:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:33:47] [Server thread/INFO]: Villager bss['Villager'/8069, l='ServerLevel[world]', x=-588.93, y=63.00, z=-967.08] died, message: 'Villager burned to death'
+[16:33:47] [Server thread/INFO]: Villager bss['Villager'/8115, l='ServerLevel[world]', x=-591.00, y=63.00, z=-965.55] died, message: 'Villager burned to death'
+[16:33:47] [Server thread/INFO]: Villager bss['Villager'/8117, l='ServerLevel[world]', x=-591.12, y=63.00, z=-963.00] died, message: 'Villager burned to death'
+[16:33:49] [Server thread/INFO]: Villager bss['Villager'/8086, l='ServerLevel[world]', x=-582.70, y=63.13, z=-961.85] died, message: 'Villager tried to swim in lava'
+[16:34:01] [Server thread/INFO]: Villager bss['Villager'/8070, l='ServerLevel[world]', x=-583.48, y=63.00, z=-961.57] died, message: 'Villager burned to death'
+[16:34:01] [Server thread/INFO]: Villager bss['Villager'/8079, l='ServerLevel[world]', x=-587.87, y=63.00, z=-962.93] died, message: 'Villager burned to death'
+[16:34:01] [Server thread/INFO]: Villager bss['Villager'/8089, l='ServerLevel[world]', x=-587.55, y=63.00, z=-962.82] died, message: 'Villager burned to death'
+[16:34:07] [Server thread/INFO]: Villager bss['Villager'/8116, l='ServerLevel[world]', x=-586.71, y=64.00, z=-961.59] died, message: 'Villager burned to death'
+[16:34:10] [Server thread/INFO]: Villager bss['Villager'/8067, l='ServerLevel[world]', x=-586.45, y=64.00, z=-961.32] died, message: 'Villager burned to death'
+[16:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:34:15] [Server thread/INFO]: Villager bss['Villager'/8105, l='ServerLevel[world]', x=-585.70, y=63.00, z=-961.53] died, message: 'Villager burned to death'
+[16:34:20] [Server thread/INFO]: Villager bss['Villager'/8071, l='ServerLevel[world]', x=-587.35, y=63.00, z=-961.72] died, message: 'Villager burned to death'
+[16:34:20] [Server thread/INFO]: Villager bss['Villager'/8092, l='ServerLevel[world]', x=-587.88, y=63.00, z=-967.45] died, message: 'Villager burned to death'
+[16:34:32] [Server thread/INFO]: Villager bss['Villager'/8126, l='ServerLevel[world]', x=-584.91, y=63.00, z=-967.55] died, message: 'Villager tried to swim in lava'
+[16:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:35:03] [Server thread/INFO]: Villager bss['Villager'/8091, l='ServerLevel[world]', x=-585.72, y=63.00, z=-967.42] died, message: 'Villager burned to death'
+[16:35:07] [Server thread/INFO]: Villager bss['Villager'/8074, l='ServerLevel[world]', x=-586.84, y=63.00, z=-967.01] died, message: 'Villager burned to death'
+[16:35:08] [Server thread/INFO]: Villager bss['Villager'/8122, l='ServerLevel[world]', x=-575.94, y=63.00, z=-967.56] died, message: 'Villager burned to death'
+[16:35:58] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:35:58] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:35:58] [Server thread/INFO]: [Iron Golem: Modified entity data of Iron Golem]
+[16:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
+[16:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:41:03] [Server thread/INFO]: Villager bss['Villager'/8124, l='ServerLevel[world]', x=-582.20, y=63.00, z=-962.26] died, message: 'Villager tried to swim in lava'
+[16:41:20] [Server thread/INFO]: Villager bss['Villager'/8108, l='ServerLevel[world]', x=-583.19, y=63.17, z=-966.01] died, message: 'Villager tried to swim in lava'
+[16:43:20] [Server thread/INFO]: HolyGuizhi was slain by Iron Golem
+[16:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[16:43:38] [Server thread/INFO]: HolyGuizhi was slain by Iron Golem
+[16:43:41] [Server thread/INFO]: [HolyGuizhi: Set own game mode to Creative Mode]
+[16:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[16:44:32] [Server thread/INFO]: [HolyGuizhi: Set own game mode to Survival Mode]
+[16:45:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[16:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:48:15] [Server thread/INFO]: HolyGuizhi lost connection: Disconnected
+[16:48:15] [Server thread/INFO]: HolyGuizhi left the game
+[16:48:15] [Server thread/WARN]: handleDisconnection() called twice
+[16:48:21] [Server thread/INFO]: Stopping the server
+[16:48:21] [Server thread/INFO]: Stopping server
+[16:48:21] [Server thread/INFO]: Saving players
+[16:48:21] [Server thread/INFO]: Saving worlds
+[16:48:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:48:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:48:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

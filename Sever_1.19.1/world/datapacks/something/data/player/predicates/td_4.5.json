@@ -1,0 +1,16 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "player": {
+        "looking_at": {
+          "distance": {
+            "absolute": {
+              "min": 4.4,
+              "max": 4.6
+            }
+          }
+        }
+      }
+    }
+  }

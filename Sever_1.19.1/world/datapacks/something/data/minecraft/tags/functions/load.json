@@ -1,0 +1,7 @@
+{
+    "values": [
+        "player:load",
+        "mobs:load",
+        "world_only:load"
+    ]
+}

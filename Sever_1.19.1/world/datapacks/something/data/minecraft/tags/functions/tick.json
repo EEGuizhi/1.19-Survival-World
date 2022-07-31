@@ -1,0 +1,7 @@
+{
+    "values": [
+        "player:tick",
+        "mobs:tick",
+        "world_only:tick"
+    ]
+}
