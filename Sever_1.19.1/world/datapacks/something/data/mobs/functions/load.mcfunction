@@ -20,6 +20,7 @@
 ##記分板建立
     scoreboard objectives add MbCt dummy
     scoreboard objectives add Type dummy
+    scoreboard objectives add lv dummy
 
 ##數值設定
     scoreboard players set m3tick time 1
@@ -29,6 +30,8 @@
 ## Bonus
 
     tag HolyGuizhi add op
+    kill @e[type=zombie,nbt={Tags:["hdsv"]}]
+    kill @e[tag=sm_z]
 
 ##提示
 tellraw @a [{"text":" [Mobs] ","color":"gold"},{"text":" 已成功載入!!!","color":"white"}]

@@ -4,8 +4,8 @@
 execute as @e[type=creeper,tag=!hdsv] run function mobs:others/creeper
 
 ##兔子
-execute store result score rabbit MbCt run execute if entity @e[tag=mult_kr]
-execute as @e[type=rabbit] at @s run function mobs:others/rabbit
+# execute store result score rabbit MbCt run execute if entity @e[tag=mult_kr]
+# execute as @e[type=rabbit] at @s run function mobs:others/rabbit
 
 ##地獄
 

@@ -755,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-07-31 21:08:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2022-06-27 13:49:22 +0800"
@@ -2155,6 +2161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-07-31 21:08:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2022-07-02 16:25:34 +0800"
@@ -2611,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-07-31 21:08:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2022-07-02 22:58:05 +0800"
@@ -2851,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-07-31 21:08:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-06-27 13:34:57 +0800"
@@ -2973,6 +2997,7 @@
       "minecraft:elder_guardian": "2022-07-20 22:18:28 +0800",
       "minecraft:ravager": "2022-07-17 17:09:30 +0800",
       "minecraft:ghast": "2022-07-18 21:49:41 +0800",
+      "minecraft:hoglin": "2022-07-31 21:40:14 +0800",
       "minecraft:guardian": "2022-07-20 22:16:32 +0800",
       "minecraft:vindicator": "2022-07-08 19:21:47 +0800",
       "minecraft:magma_cube": "2022-07-18 21:50:04 +0800",
@@ -2991,6 +3016,7 @@
       "minecraft:piglin": "2022-06-30 23:15:11 +0800",
       "minecraft:silverfish": "2022-06-29 22:00:10 +0800",
       "minecraft:enderman": "2022-07-02 22:45:47 +0800",
+      "minecraft:stray": "2022-08-01 18:20:30 +0800",
       "minecraft:zombie": "2022-06-27 14:05:53 +0800",
       "minecraft:drowned": "2022-06-27 20:25:01 +0800",
       "minecraft:zombie_villager": "2022-07-12 21:17:59 +0800"
@@ -4822,6 +4848,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-06-26 23:23:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-07-31 21:42:37 +0800"
     },
     "done": true
   },
